@@ -8,7 +8,7 @@
   <tr>
     <td>Chromecast</td>
     <td>Free</td>
-    <td>✅</td>
+    <td>❌</td>
     <th>N/A</th>
     <td>
       <img src="./img/chromecast.png" width="300px" />
@@ -28,7 +28,7 @@
   <tr>
     <td>Google Nest Hub</td>
     <td>Free</td>
-    <td>✅</td>
+    <td>❌</td>
     <th>OG, gen 1</th>
     <td>
       <img src="./img/google-hub-1st-gen.png" width="300px">
@@ -38,7 +38,7 @@
   <tr>
     <td>Home mini</td>
     <td>Free</td>
-    <td>✅</td>
+    <td>❌</td>
     <th>Some old gen, new in box</th>
     <td>
       <img src="./img/home-mini-new.png" width="300px">
@@ -48,7 +48,7 @@
   <tr>
     <td>Home mini</td>
     <td>Free</td>
-    <td>✅</td>
+    <td>❌</td>
     <th>Some old gen</th>
     <td>
       <img src="./img/home-mini.png" width="300px">
@@ -108,7 +108,7 @@
   <tr>
     <td>Random Qotom box</td>
     <td>Free</td>
-    <td>✅</td>
+    <td>❌</td>
     <th>Can't really remember the specs, ran pfSense fine for a few years.</th>
     <td>
       <img src="./img/qotom-2.png" width="300px">
