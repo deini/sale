@@ -69,7 +69,7 @@
     <td>beyerdynamic DT 770 PRO</td>
     <td>Free</td>
     <td>✅</td>
-    <th>Really rough conditions</th>
+    <th>Very rough conditions</th>
     <td>
       <img src="./img/dt-770.png" width="300px">
     </td>
