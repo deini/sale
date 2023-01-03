@@ -18,7 +18,7 @@
   <tr>
     <td>Google Home</td>
     <td>Free</td>
-    <td>✅</td>
+    <td>❌</td>
     <th>OG, gen 1</th>
     <td>
       <img src="./img/google-home.png" width="300px">
