@@ -78,7 +78,7 @@
   <tr>
     <td>Sennheiser HD 650</td>
     <td>$50</td>
-    <td>✅</td>
+    <td>❌</td>
     <th>N/A</th>
     <td>
       <img src="./img/hd-650.png" width="300px">
@@ -98,7 +98,7 @@
   <tr>
     <td>Objective2 DAC+Amp</td>
     <td>Free</td>
-    <td>✅</td>
+    <td>❌</td>
     <th>My name is engraved :( https://jdslabs.com/product/objective2/</th>
     <td>
       <img src="./img/objective2.png" width="300px">
@@ -118,7 +118,7 @@
   <tr>
     <td>Netgear Orbi</td>
     <td>Free</td>
-    <td>✅</td>
+    <td>❌</td>
     <th>First gen? Wireless or cable backhaul</th>
     <td>
       <img src="./img/orbi.png" width="300px">
